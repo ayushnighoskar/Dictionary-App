@@ -19,7 +19,7 @@ This dictionary web application offers a convenient way to look up word meanings
 
 ## Live Demo:
 
-Dictionary App
+[Click-here](https://an-dictionary.netlify.app/)
 
 ## How to Use:
 
